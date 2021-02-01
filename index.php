@@ -5,7 +5,7 @@ $serviceCode = $_POST["serviceCode"];
 $text = $_POST["text"];
 //This is the first menu screen
 if ( $text == "" ) {
-$response  = "CON Hi welcome, I can help you with Event Reservation \n";
+$response  = "CON Kenya School of Government(KSG) Participant Training Feedback \n";
 $response .= "1. Enter 1 to continue";
 }
 // Menu for a user who selects '1' from the first menu
